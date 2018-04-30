@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointTTS", "PowerPointTTS\PowerPointTTS.csproj", "{43BAB614-AD6D-4A6E-A96E-7707D9422051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BAB614-AD6D-4A6E-A96E-7707D9422051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BAB614-AD6D-4A6E-A96E-7707D9422051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BAB614-AD6D-4A6E-A96E-7707D9422051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BAB614-AD6D-4A6E-A96E-7707D9422051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252EB48C-C982-4B1A-A30C-EB00698F7D2E}
+	EndGlobalSection
+EndGlobal
